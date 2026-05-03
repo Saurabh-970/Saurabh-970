@@ -1,112 +1,24 @@
-<div align="center">
+# 💫 About Me:
+🔭 I’m currently working on:<br>Building strong skills in Java, Python, SQL, Spring Boot, and Machine Learning while creating real-world projects.<br><br>👯 I’m looking to collaborate on:<br>Open-source projects, Java backend applications, AI/ML projects, and innovative software ideas.<br><br>🤝 I’m looking for help with:<br>Advanced backend development, scalable project architecture, and industry-level best practices.<br><br>🌱 I’m currently learning:<br>Data Structures & Algorithms, Spring Boot, MongoDB, Machine Learning, and Deep Learning.<br><br>💬 Ask me about:<br>Java, Python, GitHub, beginner coding guidance, project building, and career growth in tech.<br><br>⚡ Fun fact:<br>I believe consistency beats talent when talent doesn’t stay consistent.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Saurabh+Bhonsle;Aspiring+Software+Engineer+from+India;Java+%7C+Python+%7C+C%2B%2B+%7C+AI+%7C+ML+Enthusiast;Building+Projects+%26+Growing+Everyday" />
 
-</div>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Saurabh Bhonsle) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saurabhbhonsle78@gmail.com) 
 
----
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Saurabh-970&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Saurabh-970&theme=calm_pink&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Saurabh-970&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-# 💫 About Me
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-🎯 Passionate and dedicated developer focused on building a strong career in software engineering.  
-🚀 Currently improving problem-solving skills, DSA, backend development, and AI technologies.  
-💡 Interested in creating impactful real-world applications.  
-📚 Always learning, always growing.  
-
----
-
-# 🛠️ Tech Stack
-
-<div align="center">
-
-### 💻 Languages
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,mysql,mongodb" />
-
-### ⚙️ Frameworks & Tools
-<img src="https://skillicons.dev/icons?i=spring,git,github,vscode" />
-
-### 🤖 AI / ML / DL
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-0A66C2?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Deep%20Learning-E10098?style=for-the-badge&logo=pytorch&logoColor=white" />
-
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Saurabh-970&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Saurabh-970&icon=2&color=0)](https://visitcount.itsvg.in)
 
-# 🚀 Currently Working On
-
-✅ Data Structures & Algorithms  
-✅ Java + Spring Boot Backend Development  
-✅ AI / ML / Deep Learning Projects  
-✅ Building Strong GitHub Portfolio  
-
----
-
-# 📌 Featured Interests
-
-🔹 Full Stack Development  
-🔹 Backend Engineering  
-🔹 Automation Projects  
-🔹 Intelligent AI Systems  
-🔹 Real World Software Products  
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" />
-
-</div>
-
----
-
-# 📫 Connect With Me
-
-<div align="center">
-
-<a href="mailto:saurabhbhonsle78@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
-
-📧 **saurabhbhonsle78@gmail.com**
-
----
-
-# ✨ Quote
-
-> “Success is built daily through discipline, consistency, and courage.”
-
----
-
-<div align="center">
-
-### 🚀 Thanks for visiting my profile!
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
